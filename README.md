@@ -1,3 +1,10 @@
+# E-Bakers
+A simple ready-to-use E-Bakers web Application for online bakery products built using Reactjs .
+# Development server 
+Run npm start for a dev server. Navigate to http://localhost:3000{default}. The app will automatically reload if you change any of the source files.
+# For Production
+Insure the npm module is already installed.
+To create a react app go through it https://reactjs.org/docs/create-a-new-react-app.html#create-react-app
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
